@@ -4,7 +4,7 @@
 # Net Installer, used with curl
 #
 
-atlasstGithubRepo="BoiseComputer/atlas-server-tools"
+atlasstGithubRepo="StateDev08/atlas-server-tools"
 
 steamcmd_user="$1"
 shift

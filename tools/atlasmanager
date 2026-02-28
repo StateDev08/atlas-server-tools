@@ -13,7 +13,7 @@ set +o allexport
 atlasstVersion='1.8'
 atlasstTag='v1.8.5.5'
 atlasstCommit='0d683ea82e0c7f367e0992f0211e07f6f5b45b7c'
-atlasstGithubRepo="BoiseComputer/atlas-server-tools"
+atlasstGithubRepo="StateDev08/atlas-server-tools"
 atlasstRootUseEnv=''
 atlasstGlobalCfgFile='/etc/atlasmanager/atlasmanager.cfg'
 atlasstUserCfgFile='.atlasmanager.cfg'
